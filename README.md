@@ -1,0 +1,1 @@
+rewrite the whole readme file incluing tech stack, and see through the all the files and write neat and clean and attractive version readme.md file, include those techstack tagging like react, express,html etc for all those colour taggings for this repo see through files and give python tagging, libraries tagging, like nlp etc.
